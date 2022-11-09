@@ -1,0 +1,26 @@
+﻿Build started 01/06/2021 08:23:48.
+Logging verbosity is set to: Normal.     1>Project "C:\Users\legos\OneDrive\Documents\Programming\CST 136 TFS Labs\Lab 5\Lab 5\Lab 5\Lab 5.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Lab 5.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt commandhandle.cpp main.cpp
+         commandhandle.cpp
+         main.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\legos\OneDrive\Documents\Programming\CST 136 TFS Labs\Lab 5\Lab 5\Debug\Lab 5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\legos\OneDrive\Documents\Programming\CST 136 TFS Labs\Lab 5\Lab 5\Debug\Lab 5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\legos\OneDrive\Documents\Programming\CST 136 TFS Labs\Lab 5\Lab 5\Debug\Lab 5.lib" /MACHINE:X86 Debug\commandhandle.obj
+         Debug\list.obj
+         Debug\main.obj
+         Debug\node.obj
+         Debug\personnel.obj
+         Lab 5.vcxproj -> C:\Users\legos\OneDrive\Documents\Programming\CST 136 TFS Labs\Lab 5\Lab 5\Debug\Lab 5.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Lab 5.tlog\unsuccessfulbuild".
+         Touching "Debug\Lab 5.tlog\Lab 5.lastbuildstate".
+     1>Done Building Project "C:\Users\legos\OneDrive\Documents\Programming\CST 136 TFS Labs\Lab 5\Lab 5\Lab 5\Lab 5.vcxproj" (Build target(s)).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.15
